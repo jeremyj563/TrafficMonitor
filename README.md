@@ -1,6 +1,8 @@
 # TrafficMonitor Config INI
 This is the `config.ini` configuration I use for the open source [TrafficMonitor program for Windows](https://github.com/zhongyang219/TrafficMonitor).
 
+![traffic-monitor-example](example.jpg "example")
+
 ## Installation (using Chocolatey and Wget)
 ```
 > cinst -y wget
