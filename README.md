@@ -18,5 +18,5 @@ This is the `config.ini` configuration I use for the open source [TrafficMonitor
 Note: Warning, installing the config this way will delete any history data or any other local files created in the `TrafficMonitor` folder!
 ```
 > rd /s/q %appdata%\TrafficMonitor
-> git clone https://github.com/jeremyj563/TrafficMonitor %appdata%\TrafficMonitor
+> git clone -b win10 https://github.com/jeremyj563/TrafficMonitor %appdata%\TrafficMonitor
 ```
