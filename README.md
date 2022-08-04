@@ -1,5 +1,6 @@
 # TrafficMonitor Config INI
-This is the **Windows 10** `config.ini` I use for the open source [TrafficMonitor program for Windows](https://github.com/zhongyang219/TrafficMonitor).
+This is the **Windows 10** `config.ini` I use for the open source [TrafficMonitor program for Windows](https://github.com/zhongyang219/TrafficMonitor)
+- [*Windows 11 branch here*](https://github.com/jeremyj563/TrafficMonitor)
 
 ![traffic-monitor-example](example.png "example")
 
