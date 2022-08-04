@@ -8,7 +8,7 @@ This is the `config.ini` configuration I use for the open source [TrafficMonitor
 - [Chocolatey Package: Traffic Monitor](https://community.chocolatey.org/packages/traffic-monitor)
 - [r/Windows11: Showing NetBalancer network speed in taskbar?](https://www.reddit.com/r/Windows11/comments/p7v07m/showing_netbalancer_network_speed_in_taskbar/)
 
-## Install TrafficMonitor ([using Chocolatey](https://community.chocolatey.org/packages/traffic-monitor))
+## Install TrafficMonitor ([using Chocolatey](https://chocolatey.org/install#individual))
 ```
 > cinst -y traffic-monitor
 ```
