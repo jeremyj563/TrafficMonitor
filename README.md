@@ -1,9 +1,13 @@
 # TrafficMonitor Config INI
-This is the `config.ini` configuration I use for the open source [TrafficMonitor program for Windows](https://github.com/zhongyang219/TrafficMonitor).
+This is the **Windows 10** `config.ini` I use for the open source [TrafficMonitor program for Windows](https://github.com/zhongyang219/TrafficMonitor).
 
 ![traffic-monitor-example](example.png "example")
 
-## Install TrafficMonitor ([using Chocolatey](https://community.chocolatey.org/packages/traffic-monitor))
+## Links
+- [r/Windows11: Showing NetBalancer network speed in taskbar?](https://www.reddit.com/r/Windows11/comments/p7v07m/showing_netbalancer_network_speed_in_taskbar/)
+- [Chocolatey Package: Traffic Monitor](https://community.chocolatey.org/packages/traffic-monitor)
+
+## Install TrafficMonitor ([using Chocolatey](https://chocolatey.org/install#individual))
 ```
 > cinst -y traffic-monitor
 ```
@@ -15,7 +19,7 @@ This is the `config.ini` configuration I use for the open source [TrafficMonitor
 ```
 
 ## Config (using Git)
-Note: Warning, installing the config this way will delete any history data or any other local files created in the `TrafficMonitor` folder!
+*Warning*: Installing the config this way will delete any history data or any other local files created in the `TrafficMonitor` folder!
 ```
 > rd /s/q %appdata%\TrafficMonitor
 > git clone -b win10 https://github.com/jeremyj563/TrafficMonitor %appdata%\TrafficMonitor
