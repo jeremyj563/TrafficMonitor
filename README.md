@@ -20,7 +20,7 @@ This is the `config.ini` configuration I use for the open source [TrafficMonitor
 ```
 
 ## Config (using Git)
-Warning: Installing the config this way will delete any history data or any other local files created in the `TrafficMonitor` folder!
+*Warning*: Installing the config this way will delete any history data or any other local files created in the `TrafficMonitor` folder!
 ```
 > rd /s/q %appdata%\TrafficMonitor
 > git clone https://github.com/jeremyj563/TrafficMonitor %appdata%\TrafficMonitor
