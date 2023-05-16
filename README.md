@@ -17,7 +17,7 @@ This is the `config.ini` I use for the open source [TrafficMonitor program for W
 ## Config (using Chocolatey and Wget)
 ```
 > cinst -y wget
-> wget https://raw.githubusercontent.com/jeremyj563/TrafficMonitor/master/config.ini -O %appdata%\TrafficMonitor\config.ini
+> wget https://raw.githubusercontent.com/jeremyj563/TrafficMonitor/win10/config.ini -O %appdata%\TrafficMonitor\config.ini
 ```
 
 ## Config (using Git)
